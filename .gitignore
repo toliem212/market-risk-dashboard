@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local application state
+outputs/*.csv
+outputs/*.xlsx
+!outputs/.gitkeep
+
+# Secrets / local Streamlit config
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

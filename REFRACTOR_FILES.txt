@@ -1,0 +1,11 @@
+Refactor package
+
+Replace app.py and add the following modules:
+- modules/app_config.py
+- modules/data_loader.py
+- modules/ui_helpers.py
+- modules/charts.py
+- modules/table_helpers.py
+- modules/dashboard_views.py
+
+All existing domain modules remain unchanged.

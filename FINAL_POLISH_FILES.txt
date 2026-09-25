@@ -1,0 +1,12 @@
+FINAL POLISH UPDATE
+
+Thay/copy các file sau vào project hiện tại:
+
+app.py
+README.md
+.gitignore
+modules/app_config.py
+modules/dashboard_views.py
+modules/daily_report.py
+
+Tên ứng viên hiển thị trong dashboard và báo cáo: Tô Thanh Liêm.
